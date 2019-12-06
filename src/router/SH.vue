@@ -47,9 +47,9 @@
 </template>
 
 <script>
-import GbButton from '../components/GbButton.vue'
-import GbImg from '../components/GbImg.vue'
-import GbProgress from '../components/GbProgress.vue'
+import GbButton from '../components/gb-button.vue'
+import GbImg from '../components/gb-img.vue'
+import GbProgress from '../components/gb-progress.vue'
 
 export default {
   // 컴포넌트 등록
