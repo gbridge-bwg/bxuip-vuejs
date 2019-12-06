@@ -16,7 +16,12 @@
 
 <script>
     export default{
-        props:['prolabel', 'proaccept', 'prohint', 'prowidth'],
+        props:{
+            prolabel: String, 
+            proaccept: String, 
+            prohint: String,
+            prowidth: String
+            },
         methods: {
                 sub : function(){
                     var obj = document.getElementById("testbox")

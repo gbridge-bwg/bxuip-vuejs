@@ -9,7 +9,11 @@
 
 <script>
     export default{
-        props: ['cols', 'rows', 'textlabel'],
+		props: {
+			cols: String, 
+			rows: String, 
+			textlabel: String
+		}
     }
 </script>
 
