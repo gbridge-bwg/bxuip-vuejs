@@ -33,7 +33,7 @@ export default {
 }
 </script>
 
-// 반드시 scoped를 할 것
+
 <style scoped>
  #wrap {
        display: block;

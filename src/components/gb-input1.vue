@@ -18,7 +18,7 @@ export default {
 </script>
 
 // scoped 부여 하지 말것!
-<style scope>
+<style scoped>
 #inpu1-wrap {
     vertical-align: bottom;
     position: relative;

@@ -63,8 +63,8 @@ export default {
   }
 }
 </script>
-// scoped는 하지 말것!
-<style scope>
+
+<style scoped>
 table {
     
     font-family: arial, sans-serif;

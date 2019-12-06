@@ -11,8 +11,8 @@ export default {
 }
 </script>
 
-// scoped는 하지 말것
-<style scope>
+
+<style scoped>
 #input2-wrap-default {
     vertical-align: bottom;
     position: relative;
