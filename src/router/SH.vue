@@ -22,14 +22,14 @@
 
     <h2>Img 컴포넌트</h2>
     <h3>BtnText</h3>
-    <gb-img src="./assets/logo.png" width="200px" height="200px" btnText="button text"></gb-img>
-    <gb-img src="./assets/logo.png" width="200px" height="200px" btnText="button" caption="caption"></gb-img>
+    <gb-img src="https://github.com/gbridge-bwg/bxuip-vuejs/blob/master/src/assets/logo.png?raw=true" width="200px" height="200px" btnText="button text"></gb-img>
+    <gb-img src="https://github.com/gbridge-bwg/bxuip-vuejs/blob/master/src/assets/logo.png?raw=true" width="200px" height="200px" btnText="button" caption="caption"></gb-img>
 
     <h3>Caption</h3>
-    <gb-img src="./assets/g-bridge.png" width="240px" height="240px" caption="캡션입니다"></gb-img>
+    <gb-img src="https://github.com/gbridge-bwg/bxuip-vuejs/blob/master/src/assets/g-bridge.png?raw=true" width="240px" height="240px" caption="캡션입니다"></gb-img>
 
     <h3>Desc</h3>
-    <gb-img src="./assets/logo.png" width="200px" height="200px" desc="이미지 설명입니다"></gb-img>
+    <gb-img src="https://github.com/gbridge-bwg/bxuip-vuejs/blob/master/src/assets/logo.png?raw=true" width="200px" height="200px" desc="이미지 설명입니다"></gb-img>
 
     <hr>
 
