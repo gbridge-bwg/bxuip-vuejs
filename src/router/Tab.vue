@@ -14,7 +14,7 @@
             </li>    
             <li id="tab3" class="btnCon"><input type="radio" name="tabmenu" id="tabmenu3">
             <label for="tabmenu3">최장훈</label>
-            <div class="tabCon" ></div>
+            <div class="tabCon" ><jh></jh></div>
             
             </li>
         </ul>
@@ -24,12 +24,14 @@
 <script>
     import YJ from './YJ.vue'
     import SH from './SH.vue'
+    import JH from './JH.vue'
     import Vue from 'vue'
 
     export default {
         components: {
             'yj': YJ,
-            'sh': SH
+            'sh': SH,
+            'jh' : JH
             }
     }
 </script>
