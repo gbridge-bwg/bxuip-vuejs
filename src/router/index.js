@@ -7,7 +7,7 @@ Vue.use(VueRouter)
 const router = new VueRouter({
   mode: 'history',
   routes: [
-    { path: '/tab', component: Tab }
+    { path: '/', component: Tab }
   ]
 })
 
